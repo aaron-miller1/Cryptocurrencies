@@ -6,6 +6,7 @@ The purpose of this analysis is to use machine learning in order to create a rep
 ## Results
 Using Principal Component Analysis the large dataset had its variables trimmed to 3 Principal Components.
 ## Summary
+![bokeh_plot](https://user-images.githubusercontent.com/102704559/185820273-85905886-298e-4b60-afa4-ebfc41661962.png)
 
 ![image](https://user-images.githubusercontent.com/102704559/185819902-bbb0698f-416d-4f58-94a2-76c5cdf67c13.png)
-![newplot](https://user-images.githubusercontent.com/102704559/185820231-30c80c19-2cbe-4303-9085-caa4a5e2dc49.png)
+
